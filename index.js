@@ -1,10 +1,5 @@
 // Exercise
 
-
-// PART 3
-// Modify the previous message checking that if an instructor also knows about Python, the message needs to be:
-// Hi nameOfInstructor, we inform you that this weekend you will be doing the support class and you need to prepare a Python workshop
-
 const instructors = [
   {
     name: 'John',
